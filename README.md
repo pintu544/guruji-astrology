@@ -1,4 +1,5 @@
-<h1 id="guruji-astrologer-frontend-project--readme.md">Guruji Astrologer Frontend Project  <a href="http://readme.md/">Readme.md</a></h1>
+<h1 id="guruji-astrologer-frontend-project--readme.md">Guruji Astrologer Frontend Project</h1>
+<h2>Hosted url <a href="https://guruji-astro-react.netlify.app/" target="_blank" rel="noreferrer noopener">Guruji_Astrology</a>.</h2>
 <h2 id="project-description">Project Description</h2>
 <p>This project is the frontend for the “Astrology for Clarity” website, which provides users with access to premium astrologers who have expertise in Vedic astrology, Vaastu, and Mantra therapy. The website offers solutions for a wide range of problems faced by users, ranging from relationship issues to career advice.</p>
 <h2 id="user-testimonial">User Testimonial</h2>
