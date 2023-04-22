@@ -1,6 +1,9 @@
 <h1 id="guruji-astrologer-frontend-project--readme.md">Guruji Astrologer Frontend Project</h1>
 <h2>Hosted url <a href="https://guruji-astro-react.netlify.app/" target="_blank" rel="noreferrer noopener">Guruji_Astrology</a>.</h2>
 <h2 id="project-description">Project Description</h2>
+<h3>Fully responsive app for mobile,Tablet and desktop<h3>
+  <img src="mobileview.png" alt="mobile ">
+  <img src="desktopview.png" alt="desktop ">
 <p>This project is the frontend for the “Astrology for Clarity” website, which provides users with access to premium astrologers who have expertise in Vedic astrology, Vaastu, and Mantra therapy. The website offers solutions for a wide range of problems faced by users, ranging from relationship issues to career advice.</p>
 <h2 id="user-testimonial">User Testimonial</h2>
 <p>“I had been struggling with my career for years, but after consulting with Guruji, I finally found clarity and direction. His insights into my birth chart were incredibly accurate, and his guidance has helped me make some significant positive changes in my life.”</p>
@@ -15,7 +18,7 @@
 <p>To start the React project, you will need to have Node.js and npm installed on your computer. Here are the steps to create a new React project:</p>
 <ol>
 <li>Open a terminal and navigate to the directory where you want to create the project.</li>
-<li>Run the command  <code>npx create-react-app my-app</code>  to create a new React project named “my-app”.</li>
+<li>Run the command  <code>Npm i</code>  to install dependencies “my-app”.</li>
 <li>Navigate into the project directory by running  <code>cd my-app</code>.</li>
 <li>Run the command  <code>npm start</code>  to start the development server.</li>
 </ol>
